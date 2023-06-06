@@ -1,0 +1,25 @@
+footer {
+    position: absolute;
+    bottom: 0;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100vw;
+    height: 40px;
+    font-size: 80%;
+    background-color: transparent !important;
+}
+
+/* #darkModeCont {
+    height: 80px;
+    width: 100vw;
+    position: relative;
+    background-color: var(--purple-light) !important;
+    border: 5px dotted red;
+} */
+
+#darkModeSwitchDiv {
+    width: 160px;
+    position: absolute;
+    right: 0px;
+}
